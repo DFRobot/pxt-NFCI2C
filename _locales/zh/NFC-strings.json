@@ -1,0 +1,11 @@
+{
+    "NFC.nfcDataList|block": "%dataNum|(字节)",
+    "NFC.blockList|block": "%blockNum|(数据块)",
+    "NFC.checkCard|block": "检测到卡片？",
+    "NFC.checkUid|block": "检测到卡片UID|%id|?",
+    "NFC.getUid|block": "获取NFC传感器UID数据",
+    "NFC.readDataBlock|block": "读取NFC传感器|%block=block_nfc_list|的所有数据",
+    "NFC.readDataByte|block": "读取NFC传感器|%blockN=block_nfc_list的第|%byteNum=data_nfc_list数据",
+    "NFC.readDataNByte|block": "从NFC传感器|%blockN=block_nfc_list 第|%index=data_nfc_list 读取%nByte字节数据",
+    "NFC.writeData|block": "NFC传感器 数据块:|%blockN = block_nfc_list |第： %index=data_nfc_list|写入数据 %data"
+}
